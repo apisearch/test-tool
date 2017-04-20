@@ -1,0 +1,55 @@
+
+Warning: PHP Startup: Unable to load dynamic library '/usr/local/opt/php70-intl/intl.so' - dlopen(/usr/local/opt/php70-intl/intl.so, 9): Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.57.dylib
+  Referenced from: /usr/local/opt/php70-intl/intl.so
+  Reason: image not found in Unknown on line 0
++----------------------------------------------------+
+| query: [94mmatra                             [0m    40 ms |
++----------------------------------------------------+
+| MATRAC MONTANA 80x190x9 cm                         |
+| Matrac, gumotex, 200x80 cm, MONIKA                 |
+| Matrace, pružinový, 80x200, KOKOS MEDIUM           |
+| Matrace, pružinový, 90x200, KOKOS MEDIUM           |
++----------------------------------------------------+
+
++----------------------------------------------------+
+| query: [94mmatrace                           [0m    14 ms |
++----------------------------------------------------+
+| Matrace Sofia                                      |
+| Matrace Riviera                                    |
+| Matrace Bára                                       |
+| Matrace Maxi                                       |
++----------------------------------------------------+
+
++----------------------------------------------------+
+| query: [94mmatrace ma                        [0m    18 ms |
++----------------------------------------------------+
+| Matrace Maxi                                       |
+| Matrace Maxi Kings                                 |
+| Matrace Sofia                                      |
+| Matrace Riviera                                    |
++----------------------------------------------------+
+
++----------------------------------------------------+
+| query: [94mmatrací                           [0m    22 ms |
++----------------------------------------------------+
+| Matrace Sofia                                      |
+| Matrace Riviera                                    |
+| Matrace Bára                                       |
+| Matrace Maxi                                       |
++----------------------------------------------------+
+
++----------------------------------------------------+
+| query: [94mmatrXce                           [0m    19 ms |
++----------------------------------------------------+
+| Matrace Sofia                                      |
+| Matrace Riviera                                    |
+| Matrace Bára                                       |
+| Matrace Maxi                                       |
++----------------------------------------------------+
+
++----------------------------------------------------+
+| query: [94mlednička                          [0m     9 ms |
++----------------------------------------------------+
+| --- not found ---                                  |
++----------------------------------------------------+
+

@@ -1,0 +1,29 @@
+This is Sniper ,version 1.0
+Copyright (C) 2013 by Lubia Yang, et al.
+This is free software; open source on github.com/lubia/sniper.
+
+The server is now under snipe ...
+
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Completed 600 requests
+Completed 700 requests
+Completed 800 requests
+Completed 900 requests
+Completed 1000 requests
+Transactions:                   1000 hits
+Availability:                   100.00 %
+Elapsed time:                   7.32 secs
+Document length:               48582 Bytes
+TotalTransfer:                 46.33 MB
+Transaction rate:             136.67 trans/sec
+Throughput:                     6.33 MB/sec
+Successful:                     1000 hits
+Failed:                           0 hits
+TransactionTime:              72.978 ms(mean)
+ConnectionTime:                0.200 ms(mean)
+ProcessTime:                  72.778 ms(mean)
+StateCode:                    1000(code 200)

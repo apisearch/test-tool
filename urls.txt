@@ -1,0 +1,12 @@
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/mat
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/matraxemi
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/matrace
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/Matraci
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/matrace+rivi
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/Matrace+Curem+C+4500+1+1+zdarma
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/postele
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/po
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/matrace+rivi
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/postel
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/postxel
+http://localhost:8080/api/v1/search/AVofhwGxbRvDfPc_IThJ/toto+nneexistuje
